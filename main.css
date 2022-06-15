@@ -1,3 +1,6 @@
+body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+   sans-serif;
+  }
 
    header,
    main,
@@ -10,9 +13,10 @@
   img {
     float: left;
   }
+
   nav {
     float: right;
-border: 2px solid red;}
+  }
 
   a{
     color: #333;
@@ -21,12 +25,10 @@ border: 2px solid red;}
     margin-left: 50px;
   }
 
- /* a:first-child {
+ a:first-child {
     margin: 0;
-    background-color: yellow;
-  } */
+  } 
 
-  a:first-of-type {
-    margin: 0;
-    background-color: yellow;
-  }
+a:hover {text-decoration: underline;
+  color:#649;
+cursor: pointer;}

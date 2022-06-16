@@ -29,28 +29,27 @@ body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
     margin: 0;
   } 
 
-  .main-nav .link:hover {text-decoration: underline;
-  color:#649;
-cursor: pointer;}
+  .main-nav .link:hover {
+    text-decoration: underline;
+    color:#649;
+    cursor: pointer;}
 
 /*main*/
 
-main {
-  margin-top: 60px;
-margin-bottom: 60px;
-}
-
 .left-column {
   width: 40%;
-  float:left;
+  float: left;
 }
 
+
 .main-title {
-  font-size: 70px;
+  margin: 0;
+  font-size: 60px;
 }
 
 div > span{
-  display:inline-block;
+  display: block;
+  font-weight: 100;
 }
 
 .description {
@@ -60,7 +59,7 @@ div > span{
 
 .right-column {
   width: 60%;
-  float:right;
+  float: right;
 }
 
 

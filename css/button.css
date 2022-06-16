@@ -1,0 +1,12 @@
+.btn{
+    display: inline-block;
+    padding: 15px 40 px;
+    background-color: #649;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 37px;
+    }
+    
+    .btn:hover{}
+    

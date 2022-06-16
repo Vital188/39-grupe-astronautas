@@ -5,7 +5,7 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
    .container {
    display: inline-block;
    width: 1000px;
-   margin: 0 calc(50% - 500px);
+   margin: 0 calc(50% - 500px) 60px;
   }
   
   /* header */
@@ -39,6 +39,7 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
 .left-column {
   width: 40%;
   float: left;
+  margin-top: 50px;
 }
 
 

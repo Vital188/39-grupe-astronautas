@@ -5,7 +5,7 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
    .container {
    display: inline-block;
    width: 1000px;
-   margin: 0 calc(50% - 500px) 60px;
+   margin: 0 calc(50% - 500px) 120px;
   }
   
   .container:nth-last-child(2) {

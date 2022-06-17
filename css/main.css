@@ -48,10 +48,10 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
 
 .main-title {
   margin: 0;
-  font-size: 60px;
+  font-size: 50px;
 }
 
-div > span{
+.main-title > span {
   display: block;
   font-weight: 100;
 }
@@ -62,7 +62,7 @@ div > span{
 
 
 .right-column {
-  width: 60%;
+  width: 55%;
   float: right;
 }
 
@@ -72,8 +72,8 @@ div > span{
 .socials {
   float:left;
   color: #777;
-  font-size: 30px;
-}
+  }
+
 .socials:hover {
   color:#649;
 }

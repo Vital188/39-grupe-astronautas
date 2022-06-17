@@ -1,12 +1,25 @@
 .btn{
     display: inline-block;
     padding: 15px 40px;
-    background-color: #649;
-    color: #fff;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    font-size: 18px;
     text-transform: uppercase;
-    font-size: 20px;
-    border-radius: 37px;
+    color: #fff;
+    background-color: #649;
+    border-color: 2px solid #649;
+    text-decoration: none;
+    border-radius: 25px;
     }
     
-    .btn:hover{}
+.btn:hover{
+        background-color:blue;
+    }
+
+.btn.btn-white {
+    background-color: #fff;
+    border-color: 2px solid #649;
+    color:#649;
+
+}
     

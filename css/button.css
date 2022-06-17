@@ -10,12 +10,17 @@
     border: 2px solid #649;
     text-decoration: none;
     border-radius: 25px;
+    box-shadow: 0 4px 8px #7778;
     }
     
 .btn:hover{
-        background-color: color blue;
-    }
+       box-shadow: 0 4px 12px #0008;}
 
 .btn.btn-white {
     background-color: #fff;
     color:#649;}
+
+.btn.btn-white:hover {
+    background-color:#649;
+    color: #fff;}
+        

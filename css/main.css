@@ -1,5 +1,6 @@
 body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
    sans-serif;
+   margin-top: 50px;
   }
 
    .container {
@@ -56,6 +57,12 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
   font-weight: 100;
 }
 
+.line {
+  width: 82px;
+  height: 4px;
+  background-color: #649;
+}
+
 .description {
   margin-bottom: 40px;
   width: 64%;
@@ -76,6 +83,7 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
   }
 
 .socials a {
+  text-decoration: none;
   color: #777;
 }
 

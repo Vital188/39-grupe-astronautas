@@ -14,8 +14,10 @@
     }
     
 .btn:hover{
-       box-shadow: 0 4px 12px #0008;}
-
+       box-shadow: 0 4px 12px #0008;
+       background-color: #fff;
+       color:#649;}
+       
 .btn.btn-white {
     background-color: #fff;
     color:#649;}

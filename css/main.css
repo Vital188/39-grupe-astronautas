@@ -8,6 +8,9 @@ body {font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet M
    margin: 0 calc(50% - 500px) 60px;
   }
   
+  .container:nth-last-child(2) {
+    margin-bottom: 0;}
+
   /* header */
 
   .logo {
@@ -79,4 +82,5 @@ div a{
 
 .copyright {
   float:right;
+  margin: 0;
 }
